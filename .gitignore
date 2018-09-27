@@ -1,0 +1,7 @@
+*.jar
+*.war
+.DS_Store
+.*
+!.gitignore
+
+target/
